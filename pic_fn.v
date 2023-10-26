@@ -1,6 +1,6 @@
 module main
 
-import raylibv as rl
+import irishgreencitrus.raylibv as rl
 import math
 
 fn main() {
